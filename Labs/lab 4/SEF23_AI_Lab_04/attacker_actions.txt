@@ -1,0 +1,7 @@
+6
+scan_network 1 -1 1 1
+exploit_vulnerability 3 -3 2 3
+lateral_movement 2 -1 1 2
+credential_theft 2 -2 1 2
+privilege_escalation 3 -2 2 3
+install_backdoor 2 -1 3 2

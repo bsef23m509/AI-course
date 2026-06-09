@@ -1,0 +1,6 @@
+((Fever AND Inflammation) OR (NOT StableGene)) AND ProteinSpike
+(ProteinSpike AND (NOT ImmuneResponse OR CellDamage)) OR OxygenDrop
+NOT (StableGene AND (ImmuneResponse OR NeuralImpact)) OR Fever
+((Fever AND ProteinSpike) OR (Inflammation AND CellDamage)) AND NOT NeuralImpact
+NOT ((Fever OR StableGene) AND (ProteinSpike OR ImmuneResponse)) OR CellDamage
+(OxygenDrop AND ProteinSpike) OR (NOT CellDamage AND Fever)

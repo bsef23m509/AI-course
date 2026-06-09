@@ -1,0 +1,20 @@
+# List of scenes in the film
+
+OpeningScene
+CityPanorama
+MarketChase
+SecretMeeting
+PoliceInvestigation
+NewsBroadcast
+WarehouseFight
+CarEscape
+HarborAmbush
+TrainStationRun
+HelicopterArrival
+RooftopConfrontation
+SafeHouseDiscussion
+EvidenceAnalysis
+UndercoverExchange
+FinalShowdown
+Aftermath
+CreditsScene

@@ -1,0 +1,22 @@
+Web-Gateway Dev-Workstation
+Dev-Workstation Test-Server
+Test-Server Backup-Server
+Backup-Server HR-PC
+HR-PC DB-Core
+
+Web-Gateway App-Server
+App-Server Admin-Console
+Admin-Console Logging-Server
+Logging-Server Jump-Host
+Jump-Host Domain-Controller
+Domain-Controller DB-Core
+
+App-Server Mail-Server
+Mail-Server Finance-PC
+Finance-PC Payroll-System
+Payroll-System DB-Core
+
+Dev-Workstation Sandbox
+Sandbox Research-PC
+Research-PC Archive-Server
+Archive-Server DB-Core

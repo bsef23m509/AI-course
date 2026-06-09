@@ -1,0 +1,17 @@
+Mutation,Environment,Treatment,ImmuneResponse,Outcome,Probability
+yes,harsh,strong,high,fail,0.08
+yes,harsh,strong,low,fail,0.07
+yes,harsh,weak,high,fail,0.12
+yes,harsh,weak,low,fail,0.10
+yes,mild,strong,high,success,0.09
+yes,mild,strong,low,fail,0.06
+yes,mild,weak,high,fail,0.05
+yes,mild,weak,low,fail,0.04
+no,harsh,strong,high,success,0.07
+no,harsh,strong,low,fail,0.03
+no,harsh,weak,high,fail,0.04
+no,harsh,weak,low,fail,0.02
+no,mild,strong,high,success,0.12
+no,mild,strong,low,success,0.10
+no,mild,weak,high,success,0.06
+no,mild,weak,low,success,0.05

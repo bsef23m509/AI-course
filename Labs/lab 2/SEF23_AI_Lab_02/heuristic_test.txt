@@ -1,0 +1,44 @@
+Web-Gateway 30
+DMZ-Proxy 28
+Reverse-Proxy 26
+WAF 24
+Load-Balancer 22
+
+App-Server-1 18
+App-Server-2 20
+API-Server 16
+Auth-Server 12
+Identity-Provider 6
+Domain-Controller 1
+
+Reporting-Server 15
+BI-Server 12
+Data-Warehouse 8
+DB-Replica 4
+
+VPN-Gateway 25
+Remote-Access-Server 21
+Admin-Workstation 10
+Jump-Host 5
+
+Patch-Server 19
+Update-Server 17
+Backup-Server 9
+Archive-Server 6
+
+Mail-Server 23
+HR-PC 18
+Finance-PC 14
+Payroll-System 11
+Accounting-DB 7
+
+Monitoring-Server 27
+SIEM 23
+Log-Archive 19
+Forensics-Server 17
+Research-Network 13
+Sandbox 21
+Dev-Workstation 18
+Test-Cluster 10
+
+DB-Core 0

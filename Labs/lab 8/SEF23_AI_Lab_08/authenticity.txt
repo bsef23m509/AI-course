@@ -1,0 +1,2 @@
+genuine,0.54
+forged,0.46

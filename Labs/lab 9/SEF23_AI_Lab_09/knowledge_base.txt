@@ -1,0 +1,17 @@
+FACT: A
+FACT: B
+FACT: K
+
+RULE: A -> C
+RULE: B -> D
+RULE: C AND D -> E
+RULE: E -> F
+RULE: F -> G
+RULE: G -> H
+RULE: H -> I
+RULE: I -> J
+RULE: J -> L
+RULE: K AND L -> M
+RULE: M -> N
+RULE: N -> O
+RULE: O -> P

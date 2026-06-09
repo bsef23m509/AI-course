@@ -1,0 +1,27 @@
+AI: completed_programming AND completed_math
+
+MachineLearning: completed_math AND completed_statistics
+
+AdvancedAI: completed_ai_intro AND (completed_programming AND completed_math)
+
+DataScience: (completed_statistics OR completed_databases) AND completed_programming
+
+GraduateResearch: advisor_permission AND (high_gpa OR research_experience)
+
+SeniorProject: senior_student AND completed_programming AND completed_algorithms
+
+AIResearch: advisor_permission AND completed_ai_intro AND (completed_math OR completed_statistics)
+
+TheoryOfComputation: completed_algorithms AND completed_discrete_math
+
+BigDataSystems: completed_programming AND (completed_databases OR completed_statistics)
+
+IndependentStudy: advisor_permission AND NOT senior_student
+
+AdvancedML: (completed_linear_algebra AND completed_statistics) AND (completed_programming OR completed_ai_intro)
+
+Robotics: completed_programming AND completed_linear_algebra AND (internship_experience OR research_experience)
+
+DeepLearning: completed_linear_algebra AND completed_ai_intro AND completed_programming AND high_gpa
+
+ResearchSeminar: advisor_permission AND (published_paper OR research_experience OR high_gpa)

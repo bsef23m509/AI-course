@@ -1,0 +1,2 @@
+consistent,0.52
+inconsistent,0.48

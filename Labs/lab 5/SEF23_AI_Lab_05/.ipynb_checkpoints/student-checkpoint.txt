@@ -1,0 +1,14 @@
+completed_math True
+completed_programming True
+completed_statistics False
+completed_linear_algebra True
+completed_algorithms True
+completed_databases False
+completed_ai_intro True
+completed_discrete_math True
+high_gpa True
+senior_student False
+advisor_permission True
+research_experience False
+internship_experience True
+published_paper False

@@ -1,0 +1,10 @@
+FOL Evaluation Results
+----------------------
+critical_patients_are_valid: True
+exists_patient_with_treatment: False
+every_patient_has_treatment: False
+exists_patient_with_no_treatment: True
+critical_treatments_have_patients: True
+Every patient has a doctor: False
+Patients with multiple treatments: ['Areeb', 'Zavian', 'Rayhan', 'Faiq', 'Tameem', 'Ammad', 'Sarmad', 'Mahnoor', 'Sehrish', 'Alishba']
+Every patient has critical treatment: False

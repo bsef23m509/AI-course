@@ -1,0 +1,12 @@
+Manuscript Authenticity Analysis
+--------------------------------
+P(Forged): 0.65
+P(Forged | Synthetic Ink): 0.8076923076923077
+Bayes Age|Forgery: 0.6153846153846154
+Ink ⟂ Style: False
+Forged | Style: 0.7692307692307693
+Age ⟂ Ink: False
+Most Suspicious: {'ink': 'synthetic', 'style': 'inconsistent', 'age': 'modern', 'authenticity': 'forged', 'prob': 0.16}
+Forged Marginal: 0.65
+Invalid Vars: []
+Joint Sum: 1.0

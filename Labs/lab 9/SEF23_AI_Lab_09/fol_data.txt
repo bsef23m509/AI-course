@@ -1,0 +1,17 @@
+Org1 GeneA mutated
+Org1 GeneB normal
+Org2 GeneA mutated
+Org2 GeneC mutated
+Org3 GeneD normal
+Org4 GeneE mutated
+Org5 GeneF normal
+Org6 GeneG mutated
+Org7 GeneH mutated
+Org8 GeneI normal
+Org9 GeneJ mutated
+Org10 GeneK normal
+Org11 GeneL mutated
+Org12 GeneM mutated
+Org13 GeneN normal
+Org14 GeneO mutated
+Org15 GeneP mutated

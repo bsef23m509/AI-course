@@ -1,0 +1,2 @@
+ancient,0.58
+modern,0.42

@@ -1,0 +1,4 @@
+T = 250
+cooling_rate = 0.93
+max_iterations = 120
+initial_state = 37

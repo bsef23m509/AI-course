@@ -1,0 +1,33 @@
+# Sensors and states
+MotionDetected
+WindowOpen
+DoorOpen
+Night
+FireDetected
+GasLeak
+TemperatureHigh
+HumidityHigh
+
+# Simple sensor implications
+MotionDetected => AlarmOn
+DoorOpen AND Night => AlarmOn
+WindowOpen AND Night => AlarmOn
+FireDetected => SprinklersOn
+GasLeak => VentilationOn
+TemperatureHigh AND HumidityHigh => AlertTemperature
+
+# Alarm system actions
+AlarmOn => NotifyOwner
+AlarmOn => SirenActive
+SirenActive => CallSecurityCompany
+
+# Complex rules
+NOT MotionDetected AND DoorOpen => NotifyOwner
+FireDetected AND NOT SprinklersOn => NotifyOwner
+GasLeak AND NOT VentilationOn => NotifyOwner
+(AlertTemperature OR FireDetected) => EmergencyMessage
+
+# Additional interdependencies
+NotifyOwner => CheckCamera
+CheckCamera AND MotionDetected => ConfirmIntruder
+ConfirmIntruder => CallSecurityCompany

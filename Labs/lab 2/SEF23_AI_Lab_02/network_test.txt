@@ -1,0 +1,46 @@
+Web-Gateway DMZ-Proxy
+DMZ-Proxy Reverse-Proxy
+Reverse-Proxy WAF
+WAF Load-Balancer
+Load-Balancer App-Server-1
+Load-Balancer App-Server-2
+
+App-Server-1 API-Server
+API-Server Auth-Server
+Auth-Server Identity-Provider
+Identity-Provider Domain-Controller
+
+App-Server-2 Reporting-Server
+Reporting-Server BI-Server
+BI-Server Data-Warehouse
+Data-Warehouse DB-Replica
+DB-Replica DB-Core
+
+Web-Gateway VPN-Gateway
+VPN-Gateway Remote-Access-Server
+Remote-Access-Server Admin-Workstation
+Admin-Workstation Jump-Host
+Jump-Host Domain-Controller
+
+Admin-Workstation Patch-Server
+Patch-Server Update-Server
+Update-Server Backup-Server
+Backup-Server Archive-Server
+Archive-Server DB-Core
+
+App-Server-1 Mail-Server
+Mail-Server HR-PC
+HR-PC Finance-PC
+Finance-PC Payroll-System
+Payroll-System Accounting-DB
+Accounting-DB DB-Core
+
+DMZ-Proxy Monitoring-Server
+Monitoring-Server SIEM
+SIEM Log-Archive
+Log-Archive Forensics-Server
+Forensics-Server Research-Network
+Research-Network Sandbox
+Sandbox Dev-Workstation
+Dev-Workstation Test-Cluster
+Test-Cluster DB-Core

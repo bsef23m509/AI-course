@@ -1,0 +1,2 @@
+authentic,0.68
+anomalous,0.32

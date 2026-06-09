@@ -1,0 +1,4 @@
+Film Production Plan
+---------------------
+Scene Order: OpeningScene -> CityPanorama -> PoliceInvestigation -> NewsBroadcast -> TrainStationRun -> HelicopterArrival -> FinalShowdown -> Aftermath -> CreditsScene
+Total Production Cost: 20.0

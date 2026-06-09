@@ -1,0 +1,20 @@
+Web-Gateway 15
+Dev-Workstation 12
+Test-Server 9
+Backup-Server 6
+HR-PC 3
+Sandbox 14
+Research-PC 13
+Archive-Server 8
+
+App-Server 11
+Admin-Console 5
+Logging-Server 7
+Jump-Host 4
+Domain-Controller 1
+
+Mail-Server 10
+Finance-PC 8
+Payroll-System 6
+
+DB-Core 0

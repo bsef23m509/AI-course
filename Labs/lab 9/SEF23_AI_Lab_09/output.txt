@@ -1,0 +1,29 @@
+Genetic Mutation Analysis Results
+--------------------------------
+BFS Path Length: 27
+BFS Nodes Explored: 171
+DFS Path Length: 57
+DFS Nodes Explored: 151
+GBFS Cost: 38
+GBFS Nodes Explored: 8
+A* Cost: 18
+A* Nodes Explored: 12
+Minimax Value: -9
+Minimax Nodes: 63
+AlphaBeta Value: -9
+AlphaBeta Nodes: 63
+Rule 1: True
+Rule 2: True
+Rule 3: True
+Rule 4: True
+Rule 5: True
+Rule 6: True
+Resolution proves P: True
+Model Checking proves P: True
+All organisms mutated: False
+Exists organism without mutation: True
+P(Mutation=yes): 0.6100000000000001
+P(Outcome=fail): 0.6100000000000001
+P(Mutation=yes | Outcome=fail): 0.8524590163934426
+Bayes Result: 0.8524590163934426
+Independent: False

@@ -1,0 +1,60 @@
+Areeb TR1
+Areeb TR3
+Areeb TR5
+Areeb TR11
+
+Zavian TR2
+Zavian TR4
+
+Rayhan TR1
+Rayhan TR7
+Rayhan TR9
+Rayhan TR11
+
+Huzair TR3
+
+Faiq TR6
+Faiq TR8
+Faiq TR12
+
+Tameem TR1
+Tameem TR2
+Tameem TR3
+Tameem TR4
+Tameem TR5
+
+Zaroon TR10
+
+Ammad TR2
+Ammad TR6
+Ammad TR8
+
+Sarmad TR5
+Sarmad TR9
+
+Shayaan TR3
+
+Inaya TR4
+
+Zunaira TR6
+
+Mahnoor TR7
+Mahnoor TR9
+Mahnoor TR11
+
+Sehrish TR2
+Sehrish TR3
+
+Hoorain TR8
+
+Alishba TR1
+Alishba TR5
+Alishba TR7
+
+Mehwish TR10
+
+Anabia TR6
+
+Rameesha TR12
+
+# Sobia has NO treatment (edge case)

@@ -1,0 +1,11 @@
+Eligible Courses
+----------------
+AI
+AdvancedAI
+GraduateResearch
+AIResearch
+TheoryOfComputation
+IndependentStudy
+Robotics
+DeepLearning
+ResearchSeminar

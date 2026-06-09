@@ -1,0 +1,2 @@
+natural,0.62
+synthetic,0.38

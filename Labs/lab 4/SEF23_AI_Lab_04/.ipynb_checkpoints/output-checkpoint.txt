@@ -1,0 +1,4 @@
+Network Security Simulation Results
+----------------------------------
+Final Score: -11.0
+Nodes Explored: 1346

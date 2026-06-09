@@ -1,0 +1,11 @@
+Greedy Best-First Search Results
+--------------------------------
+
+Exploration Order:
+['Web-Gateway', 'App-Server', 'Mail-Server', 'Dev-Workstation', 'Sandbox', 'Research-PC', 'Admin-Console', 'Logging-Server', 'Jump-Host', 'Domain-Controller', 'DB-Core']
+
+Simulated Attack Path:
+Web-Gateway -> App-Server -> Admin-Console -> Logging-Server -> Jump-Host -> Domain-Controller -> DB-Core
+
+Total Cost:
+6

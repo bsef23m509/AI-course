@@ -1,0 +1,4 @@
+[
+    "\n        Name: Ali\n        Roll No: 101\n        Marks: [85, 78, 92, 88, 76]\n        Course: CS\n    ",
+    "\n        Name: Adil\n        Roll No: 102\n        Marks: [90, 85, 88, 92, 87]\n        Course: SE\n    "
+]

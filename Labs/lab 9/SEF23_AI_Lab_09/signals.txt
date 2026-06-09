@@ -1,0 +1,8 @@
+Fever TRUE
+Inflammation TRUE
+StableGene FALSE
+ProteinSpike TRUE
+ImmuneResponse FALSE
+CellDamage TRUE
+OxygenDrop TRUE
+NeuralImpact FALSE

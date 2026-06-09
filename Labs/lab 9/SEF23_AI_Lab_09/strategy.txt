@@ -1,0 +1,4 @@
+mutation_level=25
+treatment_power=12
+turn=MAX
+depth_limit=5

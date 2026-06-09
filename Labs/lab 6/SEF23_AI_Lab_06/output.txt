@@ -1,0 +1,4 @@
+Inference Results:
+-------------------
+Model Checking: False
+Resolution: True
